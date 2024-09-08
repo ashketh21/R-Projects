@@ -4,7 +4,7 @@
 
 #Read in .csv downloaded from StatCan website using the readr package
 library(readr)
-FDI_Data <- read_csv("R portfolio/R-Projects/3610000801_databaseLoadingData.csv")
+FDI_Data <- read_csv("3610000801_databaseLoadingData.csv")
 
 #Import tidyverse packages, the main ones used in this program will be dplyr and tidyr
 library(tidyverse)
