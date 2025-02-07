@@ -1,0 +1,1 @@
+From my co-op experience at StatCan I have gained experience in R and Python for data science needs. This repository aims to produce mini-projects that utilize different packages to learn more about the more complex tasks R can help perform.
